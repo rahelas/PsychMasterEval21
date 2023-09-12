@@ -5,4 +5,4 @@ SB = Studierendenbefragung
 
 AB = Absolvent:innenbefragung 
 
-Zusätzliche PDFs: Unbearbeitete Antworten auf offene Fragen. 
+PDFs: Antworten für Fragen mit offenem Antwortformat. Falls nicht anders vermerkt, sind die entsprechenden Grafiken der Antworten vorhanden. 
