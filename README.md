@@ -4,3 +4,5 @@
 SB = Studierendenbefragung
 
 AB = Absolvent:innenbefragung 
+
+Zusätzliche PDFs: Unbearbeitete Antworten auf offene Fragen. 
